@@ -1,0 +1,6 @@
+{
+  "puerto": 4321,
+  "raices": [],
+  "modelos": ["openai/gpt-6.1-sol", "google/gemini-3.5-flash", "google/gemini-3.1-pro-preview"],
+  "instrucciones": ""
+}
