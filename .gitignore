@@ -1,0 +1,6 @@
+.env
+datos/
+node_modules/
+charla/
+*.antes_*
+.DS_Store
