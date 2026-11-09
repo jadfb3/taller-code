@@ -8,7 +8,7 @@ Hecho por un desarrollador independiente en Venezuela.
 
 Necesitas **Node.js 18 o superior** ([nodejs.org](https://nodejs.org)).
 
-**1.** Descarga [`taller-code.zip`](taller-code.zip) (clic en el archivo, y luego en el botón de descarga) y déjalo en tu carpeta **Descargas**.
+**1.** Descarga [`taller-code.zip`](https://github.com/jadfb3/taller-code/releases/latest/download/taller-code.zip) (un clic, se baja solo) y déjalo en tu carpeta **Descargas**.
 
 **2.** Pega este comando en una terminal:
 
