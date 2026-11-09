@@ -19,7 +19,7 @@ Necesitas **Node.js 18 o superior** ([nodejs.org](https://nodejs.org); `node -v`
 ¿Prefieres bajarlo a mano? En esta página pulsa **Code → Download ZIP**, y con el zip en Descargas:
 
 ```
-cd ~/Descargas && unzip taller-code-main.zip && cd taller-code-main && bash instalar.sh
+cd ~/Descargas && unzip -o taller-code-main.zip && cd taller-code-main && bash instalar.sh
 ```
 
 **Mac o Windows.** Instala Node.js, descomprime el ZIP y, dentro de la carpeta `taller-code-main`, escribe `node server.js` (en Windows: abre la carpeta y escribe `cmd` en la barra de direcciones del explorador). Deja esa terminal abierta mientras lo uses.
