@@ -13,7 +13,7 @@ Necesitas **Node.js 18 o superior** ([nodejs.org](https://nodejs.org)).
 **2.** Pega este comando en una terminal:
 
 ```
-cd ~/Descargas && unzip taller-code.zip && cd taller-code && bash instalar.sh
+cd ~/Descargas && unzip -o taller-code-main.zip && cd taller-code-main && bash instalar.sh
 ```
 
 **3.** Abre la dirección que te muestra al final (normalmente <http://127.0.0.1:4321>).
